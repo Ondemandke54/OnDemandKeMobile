@@ -176,3 +176,4 @@ dist
 .yarn/install-state.gz
 .pnp.*
 OnDemandKEMobile/OnDemandKEMobile.zip
+*.zip
