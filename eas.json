@@ -1,11 +1,12 @@
 {
   "cli": {
-    "version": ">= 3.15.0"
+    "version": ">=3.13.0"
   },
   "build": {
-    "android": {
-      "workflow": "managed",
-      "buildType": "apk"
+    "production": {
+      "android": {
+        "buildType": "apk"
+      }
     }
   }
 }
